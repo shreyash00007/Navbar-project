@@ -6,4 +6,4 @@ My Web Projects
 
 >[CSS](https://github.com/shreyash00007/WebProject1/blob/main/style.css)
 
->[JS](https://github.com/shreyash00007/WebProject1/blob/main/app.js)
+>[JavaScript](https://github.com/shreyash00007/WebProject1/blob/main/app.js)
