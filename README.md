@@ -1,6 +1,6 @@
-# WebProject1
+# WebProject
 
-My Web Projects
+My Web Project
 
 >[HTML](https://github.com/shreyash00007/WebProject1/blob/main/index.html)
 
